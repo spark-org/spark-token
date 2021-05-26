@@ -8,7 +8,6 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.3.0/contr
 import "./interfaces/IUniswapV2Router02.sol";
 import "./interfaces/IUniswapV2Factory.sol";
 
-pragma solidity ^0.6.12;
 // SPDX-License-Identifier: Unlicensed
 
 contract Spark is Context, IERC20, Ownable {
